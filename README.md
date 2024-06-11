@@ -14,6 +14,15 @@ This project aims to develop a fully functional WordPress website for personal t
 
 <hr>
 
+Hi Usman,
 
+I have some good news! I just finished my previous project and created a new repository for your website project. It's called 'WordPress-Personal-Trainer-Website-Project,' and you can track my progress on my GitHub account at the following link: www.page.com.
+
+Once I'm ready to insert information, pictures, and the domain, I'll reach out to you. I hope everything goes smoothly, and I'm confident you'll enjoy your new website.
+
+Have a lovely evening, and God bless you.
+
+Best,
+[Your Name]
 
   

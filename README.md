@@ -12,6 +12,8 @@ This project aims to develop a fully functional WordPress website for personal t
 - Personal Trainer Information: Showcase your expertise, qualifications, and training philosophy to attract new clients.
 - Built with WordPress: Leverage the user-friendly nature of WordPress for easy setup and managemen
 
-  <hr>
+<hr>
+
+
 
   

@@ -9,7 +9,7 @@ This project aims to develop a fully functional WordPress website for personal t
 
 - Seamless Booking System: Clients can easily schedule appointments directly through the website.
 - Secure Online Payments: Accept payments for training sessions directly through the website, streamlining your business operations.
-- Personal Trainer Information: Showcase your expertise, qualifications, and training philosophy to attract new clients.
+- Personal Trainer Information: Showcase trainer/coatch expertise, qualifications, and training philosophy to attract new clients.
 - Built with WordPress: Leverage the user-friendly nature of WordPress for easy setup and managemen
 
 <hr>

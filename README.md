@@ -5,7 +5,7 @@ Manage appointments, accept payments, and build your client base - all on one po
 
 Project Overview
 
-This project aims to develop a fully functional WordPress website for personal trainers. The website will offer the following features:
+This project aims to develop a fully functional WordPress website for personal trainer. The website will offer the following features:
 
 - Seamless Booking System: Clients can easily schedule appointments directly through the website.
 - Secure Online Payments: Accept payments for training sessions directly through the website, streamlining your business operations.

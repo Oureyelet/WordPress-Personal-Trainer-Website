@@ -25,7 +25,7 @@ You can select that if you want to and then click use this:
 <hr>
 <hr>
 
-And we just link this new privacy policy page on our website
+And we just link this new privacy policy page on our website.
 
 ![image](https://github.com/user-attachments/assets/c55bdab0-3890-4909-aec5-43e22fe6cf5f)
 
